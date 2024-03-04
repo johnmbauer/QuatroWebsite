@@ -1,0 +1,9 @@
+---
+title: "Lab 7"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
