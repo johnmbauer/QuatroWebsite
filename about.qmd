@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-About this site
+![John Bauer, 2nd year ChE PhD student, Andrews Lab](~/Bio 676/Quarto/images/UCard.jpg)
 
-```{r}
-1 + 1
-```
+
+Hello! My name is John Bauer and I'm interested in building interspecies genetic circuits to reprogram bacterial consortia for bioproduction and bioremediation. I earned my Bachelors of Science in chemical engineering at University of Wisconsin-Madison and recently became a PhD student in chemical engineering at University of Massachusetts-Amherst. I am currently working on establishing biosensors for heavy metals in *Pseudomonas putida*. In the future, I will incorporate these sensors into a bacterial consortia where each strain contains portions of an interspecies genetic circuit for the bioremediation of heavy metals.
