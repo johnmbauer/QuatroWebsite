@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "Lab7.html",
+    "href": "Lab7.html",
+    "title": "Lab 7",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Here are the links to all my labs"
+  },
+  {
+    "objectID": "Presentations.html",
+    "href": "Presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Here are all my presentations"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are links to all my projects"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -12,12 +40,5 @@
     "title": "Quarto",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Lab7.html",
-    "href": "Lab7.html",
-    "title": "Lab 7",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
