@@ -10,19 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - sidebar:labs
+      - Labs.qmd
       - Projects.qmd
       - Presentations.qmd
-  sidebar: 
-    -id: labs
-    title: "Labs"
-    
-    background: "light"
-    collapse-level: 2
-    contents:
-      Bio676Labs.qmd
-      Projects.qmd
-
 format:
   html:
     theme: cosmo

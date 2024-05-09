@@ -2,3 +2,4 @@
 title: "Labs"
 ---
 YOOOOOOOOOO
+[Bio 676 Labs](~/Bio 676/Quarto/Bio676Labs.qmd)
