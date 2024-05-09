@@ -11,7 +11,7 @@
     "href": "Labs.html",
     "title": "Labs",
     "section": "",
-    "text": "Here are the links to all my Bio676 labs:\n\nLab 1 : Lab 1\nLab 2 : Lab 2\nLab 3 : Lab 3\nLab 4 : Lab 4\nLab 5 : NA\nLab 6 : Lab 6\nLab 7 : Lab 7\nLab 8 : Lab 8\nLab 9 : Lab 9\nLab 10 : Lab 10\nLab 11 : Lab 11\nLab 12 : Lab 12\nLab 13 : Lab 13\nLab 14 : Lab 14\nLab 15 : Lab 15\nLab 16 : Lab 16"
+    "text": "Bio 676 Labs"
   },
   {
     "objectID": "Presentations.html",
@@ -40,5 +40,12 @@
     "title": "Quarto",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Bio676Labs.html",
+    "href": "Bio676Labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Here are the links to all my Bio676 labs:\n\nLab 1 : Lab 1\nLab 2 : Lab 2\nLab 3 : Lab 3\nLab 4 : Lab 4\nLab 5 : NA\nLab 6 : Lab 6\nLab 7 : Lab 7\nLab 8 : Lab 8\nLab 9 : Lab 9\nLab 10 : Lab 10\nLab 11 : Lab 11\nLab 12 : Lab 12\nLab 13 : Lab 13\nLab 14 : Lab 14\nLab 15 : Lab 15\nLab 16 : Lab 16"
   }
 ]

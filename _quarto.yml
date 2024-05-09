@@ -10,7 +10,6 @@ website:
         text: Home
       - about.qmd
       - Labs.qmd
-        -Bio676Labs
       - Projects.qmd
       - Presentations.qmd
 
