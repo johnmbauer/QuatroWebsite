@@ -1,0 +1,22 @@
+---
+title: "Labs"
+---
+
+Here are the links to all my Bio676 labs:
+
+* Lab 1  : [Lab 1](Labs/Lab1_JohnBauer.html)
+* Lab 2  : [Lab 2](Labs/Lab2_JohnBauer.html)
+* Lab 3  : [Lab 3](Labs/Lab3_JohnBauer.html)
+* Lab 4  : [Lab 4](Labs/Lab4_JohnBauer.html)
+* Lab 5  : NA
+* Lab 6  : [Lab 6](Labs/Lab7_JohnBauer.html)
+* Lab 7  : [Lab 7](Labs/Lab7_JohnBauer.html)
+* Lab 8  : [Lab 8](Labs/Lab8_JohnBauer.html)
+* Lab 9  : [Lab 9](Labs/Lab9_JohnBauer.html)
+* Lab 10 : [Lab 10](Labs/Lab10_JohnBauer.html)
+* Lab 11 : [Lab 11](Labs/Lab10_JohnBauer.html)
+* Lab 12 : [Lab 12](Labs/Lab12_JohnBauer.html)
+* Lab 13 : [Lab 13](Labs/Lab13_JohnBauer.html)
+* Lab 14 : [Lab 14](Labs/Lab14_JohnBauer.html)
+* Lab 15 : [Lab 15](Labs/Lab15_JohnBauer.html)
+* Lab 16 : [Lab 16](Labs/Lab16_JohnBauer.html)
