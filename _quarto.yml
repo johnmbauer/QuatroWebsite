@@ -5,23 +5,23 @@ project:
 website:
   title: "Quarto"
   navbar:
+    background: "dark"
     left:
       - href: index.qmd
         text: Home
-        background: "dark"
       - about.qmd
       - sidebar:labs
       - Projects.qmd
       - Presentations.qmd
   sidebar: 
-    -id:labs
-      title:"Labs"
-      style: "docked"
-      background: "light"
-      collapse-level:1
-      contents:
-        Bio676Labs.qmd
-        Lab16_JohnBauer.qmd
+    -id: labs
+    title: "Labs"
+    style: "docked"
+    background: "light"
+    collapse-level: 2
+    contents:
+      Bio676Labs.qmd
+      Projects.qmd
 
 format:
   html:
