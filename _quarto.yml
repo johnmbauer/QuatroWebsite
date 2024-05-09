@@ -16,7 +16,7 @@ website:
   sidebar: 
     -id: labs
     title: "Labs"
-    style: "docked"
+    
     background: "light"
     collapse-level: 2
     contents:
