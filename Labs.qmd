@@ -2,4 +2,4 @@
 title: "Labs"
 ---
 
-[Bio 676 Labs](~/Bio 676/Quarto/docs/Bio676Labs.html)
+[Bio 676 Labs](Bio676Labs.qmd)
