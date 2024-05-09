@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+        background: "dark"
       - about.qmd
       - sidebar:labs
       - Projects.qmd
@@ -20,6 +21,7 @@ website:
       collapse-level:1
       contents:
         Bio676Labs.qmd
+        Lab16_JohnBauer.qmd
 
 format:
   html:
