@@ -9,9 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Labs.qmd
+      - sidebar:labs
       - Projects.qmd
       - Presentations.qmd
+  sidebar: 
+    -id:labs
+      title:"Labs"
+      style: "docked"
+      background: "light"
+      collapse-level:1
+      contents:
+        Bio676Labs.qmd
 
 format:
   html:
