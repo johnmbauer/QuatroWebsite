@@ -3,7 +3,15 @@ title: "ClairedeLune"
 author: "John Bauer"
 ---
 
+
 **Claire de Lune by Isao Tomita**
+
+```{r, echo=FALSE,message=FALSE, warning=FALSE}
+library(shinyLP)
+iframe(width = "560", height = "315","https://www.youtube.com/watch?v=773dDn0PM8E&ab_channel=Tomita-Topic")
+```
+
+ 
 
 Everyone was waiting outside the airlock when Lune finally arrived. The team barely acknowledges them once they took their place at the back of the room. They all stood with a boredom that only comes endless repetition. Maq gave them a terse nod from their position next to the airlock hatch leaning against the inside of the hull. They were all fidgeting in different ways to pass the time before the ships made contact. Lapu check the ports of the portable generator by their feet despite knowing they had just been replaced last time they made berth. Kahlu kept opening the center clasp of the heavy backpack forcing them to lean backwards against the wall. Faren was standing in front of airlock controls rhythmically tapping the sides of their thighs to the tune of a song.
 
