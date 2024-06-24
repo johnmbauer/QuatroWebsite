@@ -13,6 +13,7 @@ website:
       - Labs.qmd
       - Projects.qmd
       - Presentations.qmd
+      - Vignettes.qmd
 format:
   html:
     theme: cosmo
