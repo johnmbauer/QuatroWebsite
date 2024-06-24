@@ -5,6 +5,12 @@ author: "John Bauer"
 
 **Au Fond des temps pt 1 by Valentin Clastrier**
 
+```{r, echo=FALSE,message=FALSE, warning=FALSE}
+library(shinyLP)
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/42xwiILbui0?si=DYBnmSy-lp9cn-X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 After three days of rain, the clouds abated. The rain slicked road's golden 
 hue lay below a blanket of mist, undisturbed but for the occasional drop from 
 the rooftops. The city's streets were empty of traffic at 2am and quiet as a 

@@ -5,6 +5,12 @@ author: "John Bauer"
 
 **Gifted by Cristobal Tapia de Veer**
 
+```{r, echo=FALSE,message=FALSE, warning=FALSE}
+library(shinyLP)
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EArN6uoD_80?si=iwH8whgJ1JWmz-xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The grizzled old man scratched his chin. He hauls on the cord and the motor sputters to life. With a terse grunt, he kicks 
 off the dock to set the boat free in the river. The syncopated hum of the engine grows suddenly loud as the 
 boat gets up to speed.
