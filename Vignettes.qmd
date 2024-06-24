@@ -5,6 +5,9 @@ author: "John Bauer"
 
 
 [Claire de Lune by Isao Tomiita](ClairedeLune.qmd)
+
 [Gifted by Cristobal Tapia de Veer](Gifted.qmd)
+
 [Gods in Heat by TOBACCO](GodsinHeat.qmd)
+
 [Au Fond des temps pt 1 by Valentin Clastrier](AuFond.qmd)
