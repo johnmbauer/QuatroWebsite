@@ -9,10 +9,11 @@ website:
     left:
       - href: about.qmd
         text: About
+      - Vignettes.qmd
       - Labs.qmd
       - Projects.qmd
       - Presentations.qmd
-      - Vignettes.qmd
+      
 format:
   html:
     theme: cosmo
