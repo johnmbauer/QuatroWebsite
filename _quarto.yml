@@ -7,9 +7,8 @@ website:
   navbar:
     background: "dark"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
       - Labs.qmd
       - Projects.qmd
       - Presentations.qmd
