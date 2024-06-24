@@ -1,10 +1,7 @@
 ---
-title: "GodsinHeat"
+title: "Gods in Heat by TOBACCO"
 author: "John Bauer"
 ---
-
-**Gods in Heat by TOBACCO**
-
 ```{r, echo=FALSE,message=FALSE, warning=FALSE}
 library(shinyLP)
 ```

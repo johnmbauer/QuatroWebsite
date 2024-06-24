@@ -1,11 +1,7 @@
 ---
-title: "ClairedeLune"
+title: "Claire de Lune by Isao Tomita"
 author: "John Bauer"
 ---
-
-
-**Claire de Lune by Isao Tomita**
-
 ```{r, echo=FALSE,message=FALSE, warning=FALSE}
 library(shinyLP)
 ```

@@ -1,10 +1,7 @@
 ---
-title: "Gifted"
+title: "Gifted by Cristobal Tapia de Veer"
 author: "John Bauer"
 ---
-
-**Gifted by Cristobal Tapia de Veer**
-
 ```{r, echo=FALSE,message=FALSE, warning=FALSE}
 library(shinyLP)
 ```
